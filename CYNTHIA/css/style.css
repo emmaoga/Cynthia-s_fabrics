@@ -1,0 +1,57 @@
+body {
+    overflow-x: hidden;
+}
+
+.navbar .nav-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+    border-left: #444 3px solid;
+}
+
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-image-1 {
+    background: url('../img/plain2.jpg');
+    background-size: cover;
+}
+
+.carousel-image-2 {
+    background: url('../img/plain1.jpg');
+    background-size: cover;
+}
+
+.carousel-image-3 {
+    background: url('../img/ankara4.jpg');
+    background-size: cover;
+}
+
+.carousel-image-4 {
+    background: url('../img/ankara5.jpg');
+    background-size: cover;
+}
+
+.carousel-image-5 {
+    background: url('../img/plain7.jpg');
+    background-size: cover;
+}
+
+.carousel-image-6 {
+    background: url('../img/plain11.jpg');
+    background-size: cover;
+}
+
+#customers .img {
+        margin-top: -50px;
+}
+
+#main-footer {
+    background: #000;
+    color: #fff;
+}
